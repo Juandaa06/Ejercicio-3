@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 03</title>
+    </head>
+    <body>
+        <div>
+            <h1>Aprendiendo a utilizar imágines</h1>
+        <br>
+            <img src="https://i.pinimg.com/736x/51/3c/ad/513cad90d3cfa4a57913eb473dad0100.jpg" width="250" height="250" alt="Genshin Impact"/>
+        </div>
+        <br>
+        <div>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="400" height="250" controls autoplay loop muted>
+                <source src="Vídeos/FireForce Akatsuki.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio controls autoplay loop>
+                <source src="Audios/y2mate.com - Yo No Sé Bailar.mp3" type="audio/mp3">
+            </audio>
+        </div>
+    </body>
+</html>
